@@ -41,8 +41,7 @@
 
 <h4>Monte Carlo path tracer</h4>
 
-While attending the Aalto University course *Advanced Computer Graphics*, I developed a unidirectional Monte Carlo path tracer with a Russian roulette termination scheme and tangent-space normal mapping. The underlying ray tracer was also largely developed from scratch, along with the employed acceleration structures, namely a bounding volume hierarchy. In addition, the ray-box intersection tests were accelerated using AVX instructions.
-
+A unidirectional Monte Carlo path tracer with a Russian roulette termination scheme and tangent-space normal mapping. The underlying ray tracer was also largely developed from scratch, along with the employed acceleration structures, namely a bounding volume hierarchy. In addition, the ray-box intersection tests were accelerated using AVX instructions. This work is related to the Aalto University course *Advanced Computer Graphics*.
 <p align="center">
   <img src="img/cornell-box.png" alt="cornell" height="300"/>
   <img src="img/crytek-sponza.png" alt="crytek-sponza" height="300">
