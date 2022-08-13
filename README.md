@@ -47,7 +47,7 @@ A unidirectional Monte Carlo path tracer with a Russian roulette termination sch
   <img src="img/crytek-sponza.png" alt="crytek-sponza" height="300">
 </p>
 <p align="center">
-Figure 1: <a href="http://www.graphics.cornell.edu/online/box/">The Cornell Box</a> (left) and <a href="https://www.cryengine.com/marketplace/product/crytek/sponza-sample-scene">Crytek Sponza</a> scenes rendered using the path tracer
+Figure 1: <a href="http://www.graphics.cornell.edu/online/box/">The Cornell Box</a> and <a href="https://www.cryengine.com/marketplace/product/crytek/sponza-sample-scene">Crytek Sponza</a> scenes rendered using the path tracer
 </p>
 
 <h4>Zhade</h4>
