@@ -1,4 +1,4 @@
-<h3>Tools & tech I've worked extensively with</h3>
+<h3>Tools & tech I've worked with</h3>
 <p align="left">
   <a target="_blank" href="https://isocpp.org" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cpp" width="35.58" height="40"/>
