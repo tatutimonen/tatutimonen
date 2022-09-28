@@ -55,6 +55,6 @@ Figure 1: <a href="http://www.graphics.cornell.edu/online/box/">The Cornell Box<
 
 <h4>Zhade</h4>
 
-Zhade is a hobby project rasterization-based 3D renderer built with C++20 and utilizing modern (4.6) OpenGL. Currently, a forward renderer with batching and instancing is targeted, but support for deferred shading may also be included in the future. See the project repository [here](https://github.com/tatutimonen/Zhade).
+Zhade is a hobby project rasterization-based 3D renderer built with C++20 and modern (4.6) OpenGL. Currently, a forward renderer with batching and instancing is targeted, but support for deferred shading may also be included in the future. See the project repository [here](https://github.com/tatutimonen/Zhade).
 
 <h4>See my other repositories for more!</h4>
