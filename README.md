@@ -28,7 +28,7 @@
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   </a>
   <a href="https://www.pytorchlightning.ai" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/98025367?s=200&v=4" alt="lightning" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/58386951?s=200&v=4" alt="lightning" width="40" height="40"/>
   </a>
   <a href="https://scikit-learn.org" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" width="40" height="40"/>
