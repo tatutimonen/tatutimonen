@@ -33,6 +33,9 @@
   <a href="https://scikit-learn.org" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" width="40" height="40"/>
   </a>
+  <a href="https://numba.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://numba.pydata.org/_static/numba-blue-icon-rgb.svg" alt="numba" width="40" height="40"/>
+  </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/>
   </a>
