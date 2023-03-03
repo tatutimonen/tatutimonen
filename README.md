@@ -1,20 +1,5 @@
 <h3>Tools & tech I've worked with</h3>
 <p align="left">
-  <a target="_blank" href="https://isocpp.org" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cpp" width="35.58" height="40"/>
-  </a>
-  <a href="https://www.opengl.org" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/OpenGL_logo.svg" alt="opengl" width="96.6" height="40"/>
-  </a>
-  <a href="https://cmake.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/>
   </a>
@@ -36,6 +21,21 @@
   <a href="https://numba.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://numba.pydata.org/_static/numba-blue-icon-rgb.svg" alt="numba" width="40" height="40"/>
   </a>
+  <a target="_blank" href="https://isocpp.org" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cpp" width="35.58" height="40"/>
+  </a>
+  <a href="https://www.opengl.org" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/OpenGL_logo.svg" alt="opengl" width="96.6" height="40"/>
+  </a>
+  <a href="https://cmake.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/>
   </a>
@@ -50,7 +50,7 @@
 
 <h4>Monte Carlo path tracer</h4>
 
-A unidirectional Monte Carlo path tracer with a Russian roulette termination scheme and tangent-space normal mapping. The underlying ray tracer was also largely developed from scratch, along with the employed acceleration structures, namely a bounding volume hierarchy. In addition, the ray-box intersection tests were accelerated using AVX instructions. This work is related to the Aalto University course *Advanced Computer Graphics*.
+A unidirectional Monte Carlo path tracer with a Russian roulette termination scheme and tangent-space normal mapping. The underlying ray tracer was also largely developed from scratch, along with the employed acceleration structures, namely a bounding volume hierarchy. The ray-box intersection tests were accelerated using AVX instructions. This work is related to the Aalto University course *Advanced Computer Graphics*.
 <p align="center">
   <img src="img/cornell-box.png" alt="cornell" height="300"/>
   <img src="img/crytek-sponza.png" alt="crytek-sponza" height="300">
