@@ -3,12 +3,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://numpy.org" target="_blank" rel="noreferrer">
-    <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="pandas" width="29.98" height="40"/>
-  </a>
   <a href="https://pytorch.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   </a>
@@ -17,6 +11,12 @@
   </a>
   <a href="https://scikit-learn.org" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org" target="_blank" rel="noreferrer">
+    <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="pandas" width="29.98" height="40"/>
   </a>
   <a href="https://numba.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://numba.pydata.org/_static/numba-blue-icon-rgb.svg" alt="numba" width="40" height="40"/>
