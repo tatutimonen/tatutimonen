@@ -59,8 +59,8 @@ A unidirectional Monte Carlo path tracer with a Russian roulette termination sch
 Figure 1: <a href="http://www.graphics.cornell.edu/online/box/">The Cornell Box</a> and <a href="https://www.cryengine.com/marketplace/product/crytek/sponza-sample-scene">Crytek Sponza</a> scenes rendered using the path tracer
 </p>
 
-<h4>Zhade</h4>
+----
 
-Zhade is a hobby project rasterization-based 3D renderer built with C++20 and modern (4.6) OpenGL. Currently, a forward renderer with batching and instancing is targeted, but support for deferred shading may also be included in the future. See the project repository [here](https://github.com/tatutimonen/Zhade).
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tatutimonen&repo=Zhade&title_color=000000)](https://github.com/tatutimonen/Zhade/)
 
 <h4>See my other repositories for more!</h4>
