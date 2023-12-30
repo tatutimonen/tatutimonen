@@ -48,7 +48,7 @@
 
 <h3>Some stuff I've developed</h3>
 
-<h4>Path tracer</h4>
+<h4>Path Tracer</h4>
 
 A unidirectional path tracer with a Russian roulette termination scheme and tangent-space normal mapping. The underlying ray tracer was also largely developed from scratch, along with the employed acceleration structures, namely a bounding volume hierarchy. The ray-box intersection tests were accelerated using AVX instructions. This work is related to the Aalto University course *Advanced Computer Graphics*.
 <p align="center">
